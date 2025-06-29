@@ -1,5 +1,5 @@
 
-# Chai aur React 🚀
+# Coffee aur React 🚀
 
 This repository contains a basic React application built as part of the "Chai aur React" learning journey. It's designed to help beginners get hands-on with React fundamentals like components, state, and event handling.
 
